@@ -1,5 +1,6 @@
 # One-Cycle-Pruning
 
+![](img/onecycle.png)
 
 ## Install fasterai
 
