@@ -3,6 +3,8 @@
 
 ## Install fasterai
 
+[fasterai](https://nathanhubens.github.io/fasterai/) is a library for fastai, created to create sparse networks.
+
 ```
 pip install git+https://github.com/nathanhubens/fasterai.git
 ```
