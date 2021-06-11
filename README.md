@@ -1,15 +1,19 @@
 # One-Cycle-Pruning
 
 
-## 1. Install fasterai
+## Install fasterai
 
 ```
 pip install git+https://github.com/nathanhubens/fasterai.git
 ```
 
-## 2. Run experiments
+## Run experiments
 
 ```
 python train.py --schedule 'sched_onecycle'
 ```
 
+## Requirements
+
+- fastai >= 2.1
+- torch >= 1.8
